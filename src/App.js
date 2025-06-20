@@ -7,7 +7,7 @@ function App() {
     <div className="container">
       <h1>🎉 Birthday Invitation 🎉</h1>
       <video width="10%" controls autoPlay loop>
-        <source src="/RIVISHA1.mp4" type="video/mp4" />
+        <source src="/RIVISHA2.mp4" type="video/mp4" />
       </video>
       <RSVPForm />
       <MapComponent />
